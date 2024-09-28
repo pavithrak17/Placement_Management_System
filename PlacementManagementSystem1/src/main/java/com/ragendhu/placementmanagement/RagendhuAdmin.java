@@ -11,7 +11,6 @@ public class RagendhuAdmin {
 	private String name;
 	private String password;
 	
-	
 	//Default Constructor
 	public RagendhuAdmin() {
 		super();

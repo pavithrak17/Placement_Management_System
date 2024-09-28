@@ -9,5 +9,4 @@ public class PlacementManagementSystem1Application {
 	public static void main(String[] args) {
 		SpringApplication.run(PlacementManagementSystem1Application.class, args);
 	}
-
 }

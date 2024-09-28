@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Placement Management System** is a web application designed to facilitate the management of user data within a placement context. This project allows for creating, updating, deleting, and retrieving user information, with a focus on managing student placements. It is built using **Java Spring Boot**, **Spring Data JPA**, and **Hibernate** for backend operations.
+The **Placement Management System** is a web application designed to facilitate the management of user data within a placement context.The **User Management** module of the **Placement Management System** is designed to facilitate the management of user data within a placement context. This module allows for creating, updating, deleting, and retrieving user information, specifically focused on managing student profiles and placements. Built using **Java Spring Boot**, **Spring Data JPA**, and **Hibernate**, it provides a robust backend for managing user operations efficiently. 
 
 ## Features
 

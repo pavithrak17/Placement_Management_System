@@ -96,7 +96,6 @@ package com.pavithra.placementmanagement;
 	        ResponseEntity<PavithraUser> response = userController.get(999); // Non-existent ID
 	        assertEquals(HttpStatus.NOT_FOUND, response.getStatusCode());
 	    }
-
 	    @ParameterizedTest
 	    @ValueSource(ints = {1})
 	    @Order(8)

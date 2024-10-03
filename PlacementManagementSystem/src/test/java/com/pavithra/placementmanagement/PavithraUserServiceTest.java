@@ -89,7 +89,7 @@ package com.pavithra.placementmanagement;
 	        assertEquals(HttpStatus.OK, response.getStatusCode());
 	        assertEquals(testUser.getName(), response.getBody().getName());
 	    }
-
+	    
 	    @Test
 	    @Order(7)
 	    public void testControllerGetNonExistentUser() {
